@@ -1,0 +1,17 @@
+{
+  "name": "GTA VI Command Center",
+  "short_name": "GTA VI CC",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d151c",
+  "theme_color": "#111b25",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
